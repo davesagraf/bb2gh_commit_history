@@ -1,1 +1,1 @@
-console.log("jqsni")
+console.log("obsle")
