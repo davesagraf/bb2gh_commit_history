@@ -1,2 +1,2 @@
 console.log("wcjua")
-console.log("ajqra")
+console.log("cpuan")
