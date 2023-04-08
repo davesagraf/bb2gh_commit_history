@@ -1,2 +1,2 @@
 console.log("dkicu")
-console.log("opbeq")
+console.log("buxka")
