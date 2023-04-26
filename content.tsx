@@ -1,2 +1,2 @@
 console.log("dkicu")
-console.log("rrfag")
+console.log("letko")
